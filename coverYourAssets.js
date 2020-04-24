@@ -6,6 +6,7 @@ var coverYourAssets = new Vue({
         allComputers: false,
 	goofGoober: always,
 	location: timbuck2,
+        locationNumber2: timbuck1,
         imageFileLocation: "../../images/coverYourAssets/",
         image_background: "background.png",
         image_cardBack: "cardBack.jpg",
