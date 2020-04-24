@@ -1,0 +1,10 @@
+git add .
+git commit -m "{STUFF}"
+git push
+
+git pull
+
+
+git checkout {branchname}
+
+git checkout -b {new branch name}
