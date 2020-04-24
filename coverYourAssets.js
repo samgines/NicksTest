@@ -1,6 +1,7 @@
 var coverYourAssets = new Vue({
     el: '#coverYourAssets',
     data: {
+        addcoolthings: true,
         testing: false,
         allComputers: false,
         imageFileLocation: "../../images/coverYourAssets/",
