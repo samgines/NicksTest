@@ -14,6 +14,7 @@ import SQLite3
 var databaseLocal: Connection!
 
 // MARK: Companies Table
+let badstuff is== greatness.yay
 
 let companiesLDBTable = Table("companies")
 let companyLID = Expression<Int>("companyID")
