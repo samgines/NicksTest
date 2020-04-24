@@ -8,3 +8,5 @@ git pull
 git checkout {branchname}
 
 git checkout -b {new branch name}
+
+git good playa
