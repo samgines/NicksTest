@@ -15,6 +15,7 @@ var databaseLocal: Connection!
 
 // MARK: Companies Table
 let badstuff is== greatness.yay
+oh yes it is. dad, you need to learn this. -Sam
 
 let companiesLDBTable = Table("companies")
 let companyLID = Expression<Int>("companyID")
